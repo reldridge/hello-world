@@ -1,0 +1,11 @@
+API
+Add authentication (possibly OAuth and JWT)
+Add additional controllers and filters as needed
+Add NLog for logging to DB
+Add client request/response tracking
+
+Core
+Add custom exceptions
+Expand business logic, DAL, Models as needed
+Add FluentValidation for easier Model validation
+Use patterns where needed

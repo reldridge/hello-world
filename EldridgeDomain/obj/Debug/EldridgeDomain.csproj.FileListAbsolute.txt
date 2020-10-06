@@ -1,0 +1,5 @@
+E:\Sandbox\EldridgeSolution\EldridgeDomain\bin\Debug\EldridgeDomain.dll
+E:\Sandbox\EldridgeSolution\EldridgeDomain\bin\Debug\EldridgeDomain.pdb
+E:\Sandbox\EldridgeSolution\EldridgeDomain\obj\Debug\EldridgeDomain.csproj.CoreCompileInputs.cache
+E:\Sandbox\EldridgeSolution\EldridgeDomain\obj\Debug\EldridgeDomain.dll
+E:\Sandbox\EldridgeSolution\EldridgeDomain\obj\Debug\EldridgeDomain.pdb

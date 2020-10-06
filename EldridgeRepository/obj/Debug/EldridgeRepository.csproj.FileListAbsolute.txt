@@ -1,0 +1,6 @@
+E:\Sandbox\EldridgeSolution\EldridgeRepository\bin\Debug\EldridgeRepository.dll
+E:\Sandbox\EldridgeSolution\EldridgeRepository\bin\Debug\EldridgeRepository.pdb
+E:\Sandbox\EldridgeSolution\EldridgeRepository\obj\Debug\EldridgeRepository.csprojResolveAssemblyReference.cache
+E:\Sandbox\EldridgeSolution\EldridgeRepository\obj\Debug\EldridgeRepository.csproj.CoreCompileInputs.cache
+E:\Sandbox\EldridgeSolution\EldridgeRepository\obj\Debug\EldridgeRepository.dll
+E:\Sandbox\EldridgeSolution\EldridgeRepository\obj\Debug\EldridgeRepository.pdb

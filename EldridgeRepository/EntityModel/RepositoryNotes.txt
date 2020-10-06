@@ -1,0 +1,3 @@
+﻿Note:
+Future database entity model would be added here.
+The connection will be specified in EldridgeAPI => web.config

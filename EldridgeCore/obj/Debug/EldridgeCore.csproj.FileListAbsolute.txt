@@ -1,0 +1,9 @@
+E:\Sandbox\EldridgeSolution\EldridgeCore\bin\Debug\EldridgeCore.dll
+E:\Sandbox\EldridgeSolution\EldridgeCore\bin\Debug\EldridgeCore.pdb
+E:\Sandbox\EldridgeSolution\EldridgeCore\obj\Debug\EldridgeCore.csprojResolveAssemblyReference.cache
+E:\Sandbox\EldridgeSolution\EldridgeCore\obj\Debug\EldridgeCore.csproj.CoreCompileInputs.cache
+E:\Sandbox\EldridgeSolution\EldridgeCore\obj\Debug\EldridgeCore.dll
+E:\Sandbox\EldridgeSolution\EldridgeCore\obj\Debug\EldridgeCore.pdb
+E:\Sandbox\EldridgeSolution\EldridgeCore\bin\Debug\EldridgeDomain.dll
+E:\Sandbox\EldridgeSolution\EldridgeCore\bin\Debug\EldridgeDomain.pdb
+E:\Sandbox\EldridgeSolution\EldridgeCore\obj\Debug\EldridgeCore.csproj.CopyComplete
